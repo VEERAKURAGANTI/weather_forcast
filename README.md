@@ -115,14 +115,6 @@ VITE_WEATHER_API_KEY=your_api_key_here
 * Favorite Cities
 * Air Quality Index (AQI)
 
-## 🤝 Contributing
-
-Contributions, issues, and feature requests are welcome.
-
-## 📄 License
-
-This project is open-source and available under the MIT License.
-
 ## 👨‍💻 Author
 
 **Veera Kuraganti**
